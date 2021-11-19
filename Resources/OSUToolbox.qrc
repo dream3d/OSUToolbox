@@ -1,0 +1,7 @@
+ <!DOCTYPE RCC>
+ <RCC version="1.0">
+ <qresource>
+ <file>OSUToolbox/OSUToolboxLicense.txt</file>
+ <file>OSUToolbox/OSUToolboxDescription.txt</file>
+ </qresource>
+ </RCC>

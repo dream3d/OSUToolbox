@@ -1,0 +1,1 @@
+Place Example Pipelines in this folder. It will be copied to the Example Pipelines directory of the DREAM.3D distribution.

@@ -1,0 +1,43 @@
+slnx.sqlite
+# Project Related Files
+CMakeLists.txt.*
+.cproject
+.project
+.idea
+.ctags
+.vscode
+.settings
+
+# Where we sometimes put all the other subprojects
+/ExternalProjects
+
+# Build Folders that are commonly used
+/Debug/
+/Release/
+/[Bb]uild/
+/[Bb]uilds/
+/Build-ninja/
+/Build-Xcode/
+/zRel/
+/CleanBuild/
+/xcode/
+/x64/
+/i386/
+/qtcreator/
+/Build2/
+/QT_BUILD/
+/ninja/
+/linux/
+/clang/
+
+# Misc Other files that get Created that we don't want
+/DREAM3DProj.includes
+Support/Scripts/GMT/gmt.history
+.floo
+.commit-template
+.DS_Store
+.cmake
+
+CMakeUserPresets.json
+
+/.mypy_cache/

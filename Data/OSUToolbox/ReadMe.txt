@@ -1,0 +1,1 @@
+Place Example Data in this folder. It will be copied to the Data directory of the DREAM.3D distribution.
